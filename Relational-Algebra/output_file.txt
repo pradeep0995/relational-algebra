@@ -1,0 +1,465 @@
+query_count = 1
+20020 Compilers Alfred 
+20021 Compilers Michael_l.scott 
+
+query_count = 2
+20001 Concrete_Mathematics Donald_Knuth 
+20002 Introduction_to_Algorithms Cormen 
+20003 The_Art_of_Computer_Programming Donald_Knuth 
+20004 Foundation_of_computer_science Alfred 
+20005 Algorithm_design Jon 
+20006 Discrete_mathematics Kenneth 
+20007 Discrete_mathematics Norman 
+20008 Discrete_mathematics Thomas_Koshy 
+20009 Discrete_mathematics CL_liu 
+20010 C_Programming Brian 
+20011 Programming_in_c E.Balaguruswammy 
+20012 Fundamental_of_software_engineering Rajib_Mall 
+20013 Fundamental_of_software_engineering Ian 
+20014 Element_of_theory_of_computation Harry_R.lewis 
+20015 Introduction_to_automata_theory John_E 
+20016 Operating_system Galvin 
+20017 Operating_system William 
+20018 Operating_system Garry 
+20019 Unix_design Maurice 
+20020 Compilers Alfred 
+20021 Compilers Michael_l.scott 
+
+query_count = 3
+10002 Structure_of_Computer_Program Harhold 
+10003 Theory_Of_Computation Michael_Sipser 
+10004 Artificial_Intelligence Stuar_Russel 
+10005 The_Protocols Richard_Stevens 
+10006 Algorithms Robert_Sidweg 
+10007 Haskel_for_good Miran 
+10008 Compiler Alfred 
+10009 Functional_Programming Greg_Michaelson 
+10010 Concrete_Mathematics Ronald_ 
+10011 Programming_Perl John_L 
+10012 Cryptography Bruce 
+10013 Introduction_to_logic Shwan_Hedman 
+10014 Database_Management C.J_Date 
+10016 Structure_of_Computer_Program Harhold 
+10017 Theory_Of_Computation Michael_Sipser 
+10018 Artificial_Intelligence Stuart_Russel 
+10019 The_Protocols Richard_Stevens 
+10020 Algorithms Robert_Sidweg 
+10021 Haskel_for_good Miran 
+10022 Compiler Alfred 
+10023 Functional_Programming Greg_Michaelson 
+10024 Concrete_Mathematics Ronald 
+10025 Programming_Perl John_L 
+10026 Cryptography Bruce 
+10027 Introduction_to_logic Shwan_Hedman 
+10028 Database_Management C.J_Date 
+10030 Structure_of_Computer_Program Harhold 
+10031 Theory_Of_Computation Michael_Sipser 
+10032 Artificial_Intelligence Stuart_Russel 
+10033 The_Protocols Richard_Stevens 
+10034 Algorithms Robert_Sidweg 
+10035 Haskel_for_good Miran 
+10036 Compiler Alfred 
+10037 Functional_Programming Greg_Michaelson 
+10038 Concrete_Mathematics Ronald 
+10039 Programming_Perl John_L 
+10040 Cryptography Bruce 
+10041 Introduction_to_logic Shwan_Hedman 
+10042 Database_Management C.J_Date 
+20003 The_Art_of_Computer_Programming Donald_Knuth 
+20004 Foundation_of_computer_science Alfred 
+20005 Algorithm_design Jon 
+20006 Discrete_mathematics Kenneth 
+20007 Discrete_mathematics Norman 
+20008 Discrete_mathematics Thomas_Koshy 
+
+query_count = 4
+Algorithm_design 20005 
+Algorithms 10006 
+Algorithms 10020 
+Algorithms 10034 
+Artificial_Intelligence 10004 
+Artificial_Intelligence 10018 
+Artificial_Intelligence 10032 
+Compiler 10008 
+Compiler 10022 
+Compiler 10036 
+Compiler 10043 
+Compiler 10044 
+Concrete_Mathematics 10010 
+Concrete_Mathematics 10024 
+Concrete_Mathematics 10038 
+Cryptography 10012 
+Cryptography 10026 
+Cryptography 10040 
+Cryptography 10046 
+Database_Management 10014 
+Database_Management 10028 
+Database_Management 10042 
+Database_Management 10045 
+Discrete_mathematics 20006 
+Discrete_mathematics 20007 
+Discrete_mathematics 20008 
+Foundation_of_computer_science 20004 
+Functional_Programming 10009 
+Functional_Programming 10023 
+Functional_Programming 10037 
+Haskel_for_good 10007 
+Haskel_for_good 10021 
+Haskel_for_good 10035 
+Introduction_to_Algorithms 10001 
+Introduction_to_Algorithms 10015 
+Introduction_to_Algorithms 10029 
+Introduction_to_logic 10013 
+Introduction_to_logic 10027 
+Introduction_to_logic 10041 
+Programming_Perl 10011 
+Programming_Perl 10025 
+Programming_Perl 10039 
+Structure_of_Computer_Program 10002 
+Structure_of_Computer_Program 10016 
+Structure_of_Computer_Program 10030 
+The_Art_of_Computer_Programming 20003 
+The_Protocols 10005 
+The_Protocols 10019 
+The_Protocols 10033 
+Theory_Of_Computation 10003 
+Theory_Of_Computation 10017 
+Theory_Of_Computation 10031 
+
+query_count = 5
+10013 Introduction_to_logic Shwan_Hedman 
+10014 Database_Management C.J_Date 
+10015 Introduction_to_Algorithms Cormen 
+10016 Structure_of_Computer_Program Harhold 
+10017 Theory_Of_Computation Michael_Sipser 
+10018 Artificial_Intelligence Stuart_Russel 
+10019 The_Protocols Richard_Stevens 
+10020 Algorithms Robert_Sidweg 
+10021 Haskel_for_good Miran 
+10022 Compiler Alfred 
+10023 Functional_Programming Greg_Michaelson 
+10024 Concrete_Mathematics Ronald 
+10025 Programming_Perl John_L 
+10026 Cryptography Bruce 
+20001 Concrete_Mathematics Donald_Knuth 
+20002 Introduction_to_Algorithms Cormen 
+20003 The_Art_of_Computer_Programming Donald_Knuth 
+20004 Foundation_of_computer_science Alfred 
+20005 Algorithm_design Jon 
+20006 Discrete_mathematics Kenneth 
+20007 Discrete_mathematics Norman 
+20008 Discrete_mathematics Thomas_Koshy 
+20009 Discrete_mathematics CL_liu 
+20010 C_Programming Brian 
+20011 Programming_in_c E.Balaguruswammy 
+20012 Fundamental_of_software_engineering Rajib_Mall 
+20013 Fundamental_of_software_engineering Ian 
+20014 Element_of_theory_of_computation Harry_R.lewis 
+20015 Introduction_to_automata_theory John_E 
+20016 Operating_system Galvin 
+20017 Operating_system William 
+20018 Operating_system Garry 
+20019 Unix_design Maurice 
+20020 Compilers Alfred 
+20021 Compilers Michael_l.scott 
+
+query_count = 6
+Algorithm_design Jon 
+Algorithms Robert_Sidweg 
+Artificial_Intelligence Stuar_Russel 
+Artificial_Intelligence Stuart_Russel 
+C_Programming Brian 
+Compiler Alfred 
+Compiler Cormen 
+Compilers Alfred 
+Compilers Michael_l.scott 
+Concrete_Mathematics Donald_Knuth 
+Concrete_Mathematics Ronald 
+Concrete_Mathematics Ronald_ 
+Cryptography Bruce 
+Cryptography Cormen 
+Database_Management C.J_Date 
+Database_Management Cormen 
+Discrete_mathematics CL_liu 
+Discrete_mathematics Kenneth 
+Discrete_mathematics Norman 
+Discrete_mathematics Thomas_Koshy 
+Element_of_theory_of_computation Harry_R.lewis 
+Foundation_of_computer_science Alfred 
+Functional_Programming Greg_Michaelson 
+Fundamental_of_software_engineering Ian 
+Fundamental_of_software_engineering Rajib_Mall 
+Haskel_for_good Miran 
+Introduction_to_Algorithms Cormen 
+Introduction_to_automata_theory John_E 
+Introduction_to_logic Shwan_Hedman 
+Operating_system Galvin 
+Operating_system Garry 
+Operating_system William 
+Programming_Perl John_L 
+Programming_in_c E.Balaguruswammy 
+Structure_of_Computer_Program Harhold 
+The_Art_of_Computer_Programming Donald_Knuth 
+The_Protocols Richard_Stevens 
+Theory_Of_Computation Michael_Sipser 
+Unix_design Maurice 
+
+query_count = 7
+Alfred 
+Brian 
+Bruce 
+C.J_Date 
+CL_liu 
+Cormen 
+Donald_Knuth 
+E.Balaguruswammy 
+Galvin 
+Garry 
+Greg_Michaelson 
+Harhold 
+Harry_R.lewis 
+Ian 
+John_E 
+John_L 
+Jon 
+Kenneth 
+Maurice 
+Michael_Sipser 
+Michael_l.scott 
+Miran 
+Norman 
+Rajib_Mall 
+Richard_Stevens 
+Robert_Sidweg 
+Ronald 
+Ronald_ 
+Shwan_Hedman 
+Stuar_Russel 
+Stuart_Russel 
+Thomas_Koshy 
+William 
+
+query_count = 8
+10001 
+10002 
+10003 
+10004 
+10005 
+10006 
+10007 
+10008 
+10009 
+10010 
+10011 
+10012 
+10013 
+10014 
+10015 
+10016 
+10017 
+10018 
+10019 
+10020 
+10021 
+10022 
+10023 
+10024 
+10025 
+10026 
+10027 
+10028 
+10029 
+10030 
+10031 
+10032 
+10033 
+10034 
+10035 
+10036 
+10037 
+10038 
+10039 
+10040 
+10041 
+10042 
+10043 
+10044 
+10045 
+10046 
+20003 
+20004 
+20005 
+20006 
+20007 
+20008 
+
+query_count = 9
+Alfred 
+Bruce 
+C.J_Date 
+Cormen 
+Donald_Knuth 
+Greg_Michaelson 
+Harhold 
+John_L 
+Jon 
+Kenneth 
+Michael_Sipser 
+Miran 
+Norman 
+Richard_Stevens 
+Robert_Sidweg 
+Ronald 
+Shwan_Hedman 
+Stuart_Russel 
+Thomas_Koshy 
+
+query_count = 10
+Alfred 
+Bruce 
+C.J_Date 
+Cormen 
+Donald_Knuth 
+Greg_Michaelson 
+Harhold 
+John_L 
+Jon 
+Kenneth 
+Michael_Sipser 
+Miran 
+Norman 
+Richard_Stevens 
+Robert_Sidweg 
+Ronald 
+Shwan_Hedman 
+Stuart_Russel 
+Thomas_Koshy 
+
+query_count = 11
+Algorithm_design 
+Algorithms 
+Artificial_Intelligence 
+Compiler 
+Concrete_Mathematics 
+Cryptography 
+Database_Management 
+Discrete_mathematics 
+Foundation_of_computer_science 
+Functional_Programming 
+Haskel_for_good 
+Introduction_to_Algorithms 
+Introduction_to_logic 
+Programming_Perl 
+Structure_of_Computer_Program 
+The_Art_of_Computer_Programming 
+The_Protocols 
+Theory_Of_Computation 
+
+query_count = 12
+Ronald_ 
+Stuar_Russel 
+
+query_count = 13
+C_Programming 
+Compilers 
+Element_of_theory_of_computation 
+Fundamental_of_software_engineering 
+Introduction_to_automata_theory 
+Operating_system 
+Programming_in_c 
+Unix_design 
+
+query_count = 14
+10001 Introduction_to_Algorithms Cormen 
+10002 Structure_of_Computer_Program Harhold 
+10003 Theory_Of_Computation Michael_Sipser 
+10004 Artificial_Intelligence Stuar_Russel 
+10005 The_Protocols Richard_Stevens 
+10006 Algorithms Robert_Sidweg 
+10007 Haskel_for_good Miran 
+10008 Compiler Alfred 
+10009 Functional_Programming Greg_Michaelson 
+10010 Concrete_Mathematics Ronald_ 
+10011 Programming_Perl John_L 
+10012 Cryptography Bruce 
+10027 Introduction_to_logic Shwan_Hedman 
+10028 Database_Management C.J_Date 
+10029 Introduction_to_Algorithms Cormen 
+10030 Structure_of_Computer_Program Harhold 
+10031 Theory_Of_Computation Michael_Sipser 
+10032 Artificial_Intelligence Stuart_Russel 
+10033 The_Protocols Richard_Stevens 
+10034 Algorithms Robert_Sidweg 
+10035 Haskel_for_good Miran 
+10036 Compiler Alfred 
+10037 Functional_Programming Greg_Michaelson 
+10038 Concrete_Mathematics Ronald 
+10039 Programming_Perl John_L 
+10040 Cryptography Bruce 
+10041 Introduction_to_logic Shwan_Hedman 
+10042 Database_Management C.J_Date 
+10043 Compiler Cormen 
+10044 Compiler Cormen 
+10045 Database_Management Cormen 
+10046 Cryptography Cormen 
+
+query_count = 15
+1 Aman_gupta male English 7 
+1 Aman_gupta male Maths 10 
+1 Aman_gupta male Physics 8 
+1 Aman_gupta male Socail_science 7 
+1 Aman_gupta male Sports 10 
+2 Suraj male English 7 
+2 Suraj male Maths 10 
+2 Suraj male Physics 8 
+2 Suraj male Socail_science 7 
+2 Suraj male Sports 10 
+3 Shivam male English 7 
+3 Shivam male Maths 10 
+3 Shivam male Physics 8 
+3 Shivam male Socail_science 7 
+3 Shivam male Sports 10 
+4 Shivani female English 7 
+4 Shivani female Maths 10 
+4 Shivani female Physics 8 
+4 Shivani female Socail_science 7 
+4 Shivani female Sports 10 
+5 Sushma female English 7 
+5 Sushma female Maths 10 
+5 Sushma female Physics 8 
+5 Sushma female Socail_science 7 
+5 Sushma female Sports 10 
+6 Anand male English 7 
+6 Anand male Maths 10 
+6 Anand male Physics 8 
+6 Anand male Socail_science 7 
+6 Anand male Sports 10 
+7 Raj male English 7 
+7 Raj male Maths 10 
+7 Raj male Physics 8 
+7 Raj male Socail_science 7 
+7 Raj male Sports 10 
+8 Pooja female English 7 
+8 Pooja female Maths 10 
+8 Pooja female Physics 8 
+8 Pooja female Socail_science 7 
+8 Pooja female Sports 10 
+9 Rekha female English 7 
+9 Rekha female Maths 10 
+9 Rekha female Physics 8 
+9 Rekha female Socail_science 7 
+9 Rekha female Sports 10 
+
+query_count = 16
+query_count = 17
+Aman_gupta male 
+Anand male 
+Pooja female 
+Raj male 
+Rekha female 
+Shivam male 
+Shivani female 
+Suraj male 
+Sushma female 
+
+query_count = 18

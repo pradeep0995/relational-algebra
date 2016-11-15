@@ -1,0 +1,6 @@
+subject credit
+Maths,10
+English,7
+Physics,8
+Socail_science,7
+Sports,10

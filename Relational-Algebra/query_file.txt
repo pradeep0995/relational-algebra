@@ -1,0 +1,18 @@
+Select title = Compilers book_2
+Select acc_no > 20000 book_2
+Select title <> Compilers author <> Cormen book_1
+Project title acc_no book_1
+Project acc_no title author book_2
+Union (book_1,book_2,title,author)
+Union (book_2,book_1,author)
+Union (book_1,book_1,acc_no)
+Intersect (book_1,book_2,author)
+Intersect (book_2,book_1,author)
+Intersect (book_1,book_1,title)
+Minus (book_1,book_2,author)
+Minus (book_2,book_1,title)
+Minus (book_1,book_2,acc_no,title,author)
+Cross_product student course
+rename (student,students,roll_id,name,gender)
+Project name gender students
+exit

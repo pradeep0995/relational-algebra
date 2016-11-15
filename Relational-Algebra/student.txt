@@ -1,0 +1,10 @@
+roll_no name sex
+1,Aman_gupta,male
+2,Suraj,male
+3,Shivam,male
+4,Shivani,female
+5,Sushma,female
+6,Anand,male
+7,Raj,male
+8,Pooja,female
+9,Rekha,female

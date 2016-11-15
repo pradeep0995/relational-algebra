@@ -1,0 +1,81 @@
+//------------------------------------------------------------------------------------------------------------
+//------------------------------------------------------------------------------------------------------------
+/*
+Assignment No:	2 
+Subject: 		DBMS (IMPLEMENTATION OF RELATIONAL ALGEBRA IN C++)
+Author :		Pradeep Yadav
+Roll No:		14075037 Btech Part(III)
+*/
+//------------------------------------------------------------------------------------------------------------
+//------------------------------------------------------------------------------------------------------------
+
+Description of the project:
+This project aims to implement relational algebra using C++ language.The various operations implemented in this
+project include :
+
+1) Select
+2) Project
+3) Union
+4) Intersection
+5) Minus(set difference)
+6) Cross Product
+7) Rename
+
+To demonstrate the working of the implemented code two file are used namely book_1.txt and book_2.txt
+The general structure of the file on which the code works is;
+1. The first line of the file must include the name of attributes either comma or space separated
+2. The entries of the table must be space separated and values of each cell must not contain any space (use underscore)
+
+If any file whose structure is as explained above then all the implemented code will work properly.
+//-------------------------------------------------------------------------------------------------------------
+
+Following are the details
+
+1)Select :
+<syntax> select(space)attribute(space)operator(space)value......attribute(space)operator(space)value tablename
+e.g  Select acc_no > 12542 title = compiler book
+The above selects all the records from the table book where acc_no > 12542 and title is compiler
+
+/* Assumption */
+
+> Only and (&&) operation is implemented
+> The set of operators allowed are
+	a) = (equals to)
+	b) > (greater than)
+	c) < (less than)
+	d) <> (not equal)
+	e) >= (greater than equal to)
+	f) <= (less than equal to)
+
+
+2) Project
+<syntax> Project att att.....att tablename
+the above prints the listed attributes from the table 
+e.g Project title author book_1
+
+3)Intersect
+<syntax> Intersect(space)(tablename,tablename,att,att....att)
+e.g Intersect (book1,book2,title,author)
+
+4)Union
+<syntax> Union(space)(tablename,tablename,att,att......att)
+e.g Union (book1,book2,title,author)
+
+5)Minus
+<syntax> Minus(space)(tablename,tablename,att,att.....,att)
+e.g Minus (book1,book2,author)
+
+6)Cross Product
+<syntax> Cross_product(space)tablename(space)tablename
+e.g Cross_product book1 book2
+
+7)Rename 
+<syntax> rename(space)(new_table,old_table,new_att1,new_att2,new_att3...)
+
+8) exit
+To exit the terminal
+
+Query file  and output file contains different queries to demonstrate the working of the above explained.
+
+
+--------------------- end ----------------------------------------------------------------------------------
